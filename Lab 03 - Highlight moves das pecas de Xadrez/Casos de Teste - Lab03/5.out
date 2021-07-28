@@ -1,0 +1,300 @@
+Movimentos para a peca Dama a partir da casa g8.
+8 x x x x x x o x
+7 - - - - - x x x
+6 - - - - x - x -
+5 - - - x - - x -
+4 - - x - - - x -
+3 - x - - - - x -
+2 x - - - - - x -
+1 - - - - - - x -
+  a b c d e f g h
+
+Movimentos para a peca Bispo a partir da casa h7.
+8 - - - - - - x -
+7 - - - - - - - o
+6 - - - - - - x -
+5 - - - - - x - -
+4 - - - - x - - -
+3 - - - x - - - -
+2 - - x - - - - -
+1 - x - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Dama a partir da casa a1.
+10 x - - - - - - - - x
+9 x - - - - - - - x -
+8 x - - - - - - x - -
+7 x - - - - - x - - -
+6 x - - - - x - - - -
+5 x - - - x - - - - -
+4 x - - x - - - - - -
+3 x - x - - - - - - -
+2 x x - - - - - - - -
+1 o x x x x x x x x x
+  a b c d e f g h i j
+
+Movimentos para a peca Rei a partir da casa a2.
+10 - - - - - - - - - -
+9 - - - - - - - - - -
+8 - - - - - - - - - -
+7 - - - - - - - - - -
+6 - - - - - - - - - -
+5 - - - - - - - - - -
+4 - - - - - - - - - -
+3 x x - - - - - - - -
+2 o x - - - - - - - -
+1 x x - - - - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Bispo a partir da casa j6.
+10 - - - - - x - - - -
+9 - - - - - - x - - -
+8 - - - - - - - x - -
+7 - - - - - - - - x -
+6 - - - - - - - - - o
+5 - - - - - - - - x -
+4 - - - - - - - x - -
+3 - - - - - - x - - -
+2 - - - - - x - - - -
+1 - - - - x - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Dama a partir da casa g6.
+8 - - - - x - x -
+7 - - - - - x x x
+6 x x x x x x o x
+5 - - - - - x x x
+4 - - - - x - x -
+3 - - - x - - x -
+2 - - x - - - x -
+1 - x - - - - x -
+  a b c d e f g h
+
+Movimentos para a peca Rei a partir da casa j9.
+10 - - - - - - - - x x
+9 - - - - - - - - x o
+8 - - - - - - - - x x
+7 - - - - - - - - - -
+6 - - - - - - - - - -
+5 - - - - - - - - - -
+4 - - - - - - - - - -
+3 - - - - - - - - - -
+2 - - - - - - - - - -
+1 - - - - - - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Rei a partir da casa b7.
+8 x x x - - - - -
+7 x o x - - - - -
+6 x x x - - - - -
+5 - - - - - - - -
+4 - - - - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Torre a partir da casa d6.
+9 - - - x - - - - -
+8 - - - x - - - - -
+7 - - - x - - - - -
+6 x x x o x x x x x
+5 - - - x - - - - -
+4 - - - x - - - - -
+3 - - - x - - - - -
+2 - - - x - - - - -
+1 - - - x - - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Dama a partir da casa a5.
+9 x - - - x - - - -
+8 x - - x - - - - -
+7 x - x - - - - - -
+6 x x - - - - - - -
+5 o x x x x x x x x
+4 x x - - - - - - -
+3 x - x - - - - - -
+2 x - - x - - - - -
+1 x - - - x - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Peao a partir da casa d2.
+10 - - - - - - - - - -
+9 - - - - - - - - - -
+8 - - - - - - - - - -
+7 - - - - - - - - - -
+6 - - - - - - - - - -
+5 - - - - - - - - - -
+4 - - - x - - - - - -
+3 - - - x - - - - - -
+2 - - - o - - - - - -
+1 - - - - - - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Bispo a partir da casa i7.
+9 - - - - - - x - -
+8 - - - - - - - x -
+7 - - - - - - - - o
+6 - - - - - - - x -
+5 - - - - - - x - -
+4 - - - - - x - - -
+3 - - - - x - - - -
+2 - - - x - - - - -
+1 - - x - - - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Peao a partir da casa h2.
+8 - - - - - - - -
+7 - - - - - - - -
+6 - - - - - - - -
+5 - - - - - - - -
+4 - - - - - - - x
+3 - - - - - - - x
+2 - - - - - - - o
+1 - - - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Cavalo a partir da casa c2.
+9 - - - - - - - - -
+8 - - - - - - - - -
+7 - - - - - - - - -
+6 - - - - - - - - -
+5 - - - - - - - - -
+4 - x - x - - - - -
+3 x - - - x - - - -
+2 - - o - - - - - -
+1 x - - - x - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Torre a partir da casa d10.
+10 x x x o x x x x x x
+9 - - - x - - - - - -
+8 - - - x - - - - - -
+7 - - - x - - - - - -
+6 - - - x - - - - - -
+5 - - - x - - - - - -
+4 - - - x - - - - - -
+3 - - - x - - - - - -
+2 - - - x - - - - - -
+1 - - - x - - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Dama a partir da casa e5.
+10 - - - - x - - - - x
+9 x - - - x - - - x -
+8 - x - - x - - x - -
+7 - - x - x - x - - -
+6 - - - x x x - - - -
+5 x x x x o x x x x x
+4 - - - x x x - - - -
+3 - - x - x - x - - -
+2 - x - - x - - x - -
+1 x - - - x - - - x -
+  a b c d e f g h i j
+
+Movimentos para a peca Torre a partir da casa h5.
+9 - - - - - - - x -
+8 - - - - - - - x -
+7 - - - - - - - x -
+6 - - - - - - - x -
+5 x x x x x x x o x
+4 - - - - - - - x -
+3 - - - - - - - x -
+2 - - - - - - - x -
+1 - - - - - - - x -
+  a b c d e f g h i
+
+Movimentos para a peca Dama a partir da casa g2.
+8 x - - - - - x -
+7 - x - - - - x -
+6 - - x - - - x -
+5 - - - x - - x -
+4 - - - - x - x -
+3 - - - - - x x x
+2 x x x x x x o x
+1 - - - - - x x x
+  a b c d e f g h
+
+Movimentos para a peca Peao a partir da casa b8.
+10 - - - - - - - - - -
+9 - x - - - - - - - -
+8 - o - - - - - - - -
+7 - - - - - - - - - -
+6 - - - - - - - - - -
+5 - - - - - - - - - -
+4 - - - - - - - - - -
+3 - - - - - - - - - -
+2 - - - - - - - - - -
+1 - - - - - - - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Peao a partir da casa c5.
+8 - - - - - - - -
+7 - - - - - - - -
+6 - - x - - - - -
+5 - - o - - - - -
+4 - - - - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Torre a partir da casa h1.
+9 - - - - - - - x -
+8 - - - - - - - x -
+7 - - - - - - - x -
+6 - - - - - - - x -
+5 - - - - - - - x -
+4 - - - - - - - x -
+3 - - - - - - - x -
+2 - - - - - - - x -
+1 x x x x x x x o x
+  a b c d e f g h i
+
+Movimentos para a peca Bispo a partir da casa b8.
+9 x - x - - - - - -
+8 - o - - - - - - -
+7 x - x - - - - - -
+6 - - - x - - - - -
+5 - - - - x - - - -
+4 - - - - - x - - -
+3 - - - - - - x - -
+2 - - - - - - - x -
+1 - - - - - - - - x
+  a b c d e f g h i
+
+Movimentos para a peca Torre a partir da casa d7.
+8 - - - x - - - -
+7 x x x o x x x x
+6 - - - x - - - -
+5 - - - x - - - -
+4 - - - x - - - -
+3 - - - x - - - -
+2 - - - x - - - -
+1 - - - x - - - -
+  a b c d e f g h
+
+Movimentos para a peca Cavalo a partir da casa d2.
+10 - - - - - - - - - -
+9 - - - - - - - - - -
+8 - - - - - - - - - -
+7 - - - - - - - - - -
+6 - - - - - - - - - -
+5 - - - - - - - - - -
+4 - - x - x - - - - -
+3 - x - - - x - - - -
+2 - - - o - - - - - -
+1 - x - - - x - - - -
+  a b c d e f g h i j
+
+Movimentos para a peca Peao a partir da casa f6.
+8 - - - - - - - -
+7 - - - - - x - -
+6 - - - - - o - -
+5 - - - - - - - -
+4 - - - - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+

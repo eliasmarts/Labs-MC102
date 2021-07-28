@@ -1,0 +1,114 @@
+Movimentos para a peca Cavalo a partir da casa h5.
+8 - - - - - - - -
+7 - - - - - - x -
+6 - - - - - x - -
+5 - - - - - - - o
+4 - - - - - x - -
+3 - - - - - - x -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Dama a partir da casa h7.
+9 - - - - - x - x -
+8 - - - - - - x x x
+7 x x x x x x x o x
+6 - - - - - - x x x
+5 - - - - - x - x -
+4 - - - - x - - x -
+3 - - - x - - - x -
+2 - - x - - - - x -
+1 - x - - - - - x -
+  a b c d e f g h i
+
+Movimentos para a peca Dama a partir da casa c6.
+8 x - x - x - - -
+7 - x x x - - - -
+6 x x o x x x x x
+5 - x x x - - - -
+4 x - x - x - - -
+3 - - x - - x - -
+2 - - x - - - x -
+1 - - x - - - - x
+  a b c d e f g h
+
+Movimentos para a peca Cavalo a partir da casa e5.
+9 - - - - - - - - -
+8 - - - - - - - - -
+7 - - - x - x - - -
+6 - - x - - - x - -
+5 - - - - o - - - -
+4 - - x - - - x - -
+3 - - - x - x - - -
+2 - - - - - - - - -
+1 - - - - - - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Torre a partir da casa h7.
+9 - - - - - - - x -
+8 - - - - - - - x -
+7 x x x x x x x o x
+6 - - - - - - - x -
+5 - - - - - - - x -
+4 - - - - - - - x -
+3 - - - - - - - x -
+2 - - - - - - - x -
+1 - - - - - - - x -
+  a b c d e f g h i
+
+Movimentos para a peca Bispo a partir da casa d3.
+8 - - - - - - - -
+7 - - - - - - - x
+6 x - - - - - x -
+5 - x - - - x - -
+4 - - x - x - - -
+3 - - - o - - - -
+2 - - x - x - - -
+1 - x - - - x - -
+  a b c d e f g h
+
+Movimentos para a peca Rei a partir da casa f5.
+9 - - - - - - - - -
+8 - - - - - - - - -
+7 - - - - - - - - -
+6 - - - - x x x - -
+5 - - - - x o x - -
+4 - - - - x x x - -
+3 - - - - - - - - -
+2 - - - - - - - - -
+1 - - - - - - - - -
+  a b c d e f g h i
+
+Movimentos para a peca Cavalo a partir da casa h7.
+8 - - - - - x - -
+7 - - - - - - - o
+6 - - - - - x - -
+5 - - - - - - x -
+4 - - - - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+
+Movimentos para a peca Bispo a partir da casa d2.
+8 - - - - - - - -
+7 - - - - - - - -
+6 - - - - - - - x
+5 x - - - - - x -
+4 - x - - - x - -
+3 - - x - x - - -
+2 - - - o - - - -
+1 - - x - x - - -
+  a b c d e f g h
+
+Movimentos para a peca Rei a partir da casa b5.
+8 - - - - - - - -
+7 - - - - - - - -
+6 x x x - - - - -
+5 x o x - - - - -
+4 x x x - - - - -
+3 - - - - - - - -
+2 - - - - - - - -
+1 - - - - - - - -
+  a b c d e f g h
+
